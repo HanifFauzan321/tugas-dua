@@ -52,17 +52,35 @@ const fruits = [
     name: "Banana",
     price: 20000,
     category: "Tropical",
-    description: "Kuning dan Manis",
+    description: "The yellow fruit has a sweet taste",
     photo: "src/image/Pisang.jpg",
   },
   {
     id: 6,
-    name: "Buah Kelengkeng",
+    name: "Longan fruit",
     price: 22000,
     category: "Tropical",
-    description: "Coklat Manis",
+    description: "The fruit has another name 'cat's eye'",
     photo: "src/image/Kelengkeng.jpg",
   },
+  {
+    id: 7,
+    name: "Lemon",
+    price: 12500,
+    category: "Tropical",
+    description: "The fruit is yellow and tastes sour",
+    photo: "src/image/Lemon.png",
+  },
+  {
+    id: 8,
+    name: "Grape",
+    price: 23500,
+    category: "Tropical",
+    description: "The purple fruit has a sweet and sour taste",
+    photo: "src/image/Anggur.png",
+  },
+  
+  
 ];
 
 export default App;
